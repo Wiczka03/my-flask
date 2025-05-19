@@ -33,3 +33,4 @@ zmiana w LICENSE.txt przez Ola
 =======
 >>>>>>> 970940e3ee809250532f69f0839906f376b4de68
 zmiana w LICENSE.txt przez Ola
+# zmiana w LICENSE.txt przez Wiktoria - zadanie 15
