@@ -33,3 +33,5 @@ zmiana w LICENSE.txt przez Ola
 =======
 >>>>>>> 970940e3ee809250532f69f0839906f376b4de68
 zmiana w LICENSE.txt przez Ola
+Zmiana w LICENSE.txt przez osobę 1 na dev2a
+Zmiana w LICENSE.txt przez osobę 2 na dev2b
