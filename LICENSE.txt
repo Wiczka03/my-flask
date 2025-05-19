@@ -27,10 +27,13 @@ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 # zmiana w LICENSE.txt przez Wikto
-<<<<<<< HEAD
+
 zmiana w LICENSE.txt przez Ola
 zmiana w LICENSE.txt przez Ola
-=======
->>>>>>> 970940e3ee809250532f69f0839906f376b4de68
+
 zmiana w LICENSE.txt przez Ola
+
 # zmiana w LICENSE.txt przez Wiktoria - zadanie 15
+
+Zmiana w LICENSE.txt przez osobę 1 na dev2a
+Zmiana w LICENSE.txt przez osobę 2 na dev2b
